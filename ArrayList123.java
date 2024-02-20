@@ -13,7 +13,7 @@ public class ArrayList123<E> {
         for(String x:arrayList){
             System.out.println(x);
         }
-        
+
         arrayList.add(0,"Gourav");
         System.out.println(arrayList);
         System.out.println(arrayList.get(2));
