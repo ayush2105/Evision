@@ -2,13 +2,14 @@ package collection;
 
 import java.util.Collections;
 import java.util.List;
-//ayush
+//Gaurav
 public class ArrayList123<E> {
     public static void main(String[] args) {
         List<String> arrayList=new java.util.ArrayList<String>();
         arrayList.add("Ayush");
         arrayList.add("A");
         arrayList.add("111");
+arrayList.add("155");
         System.out.println(arrayList);
         for(String x:arrayList){
             System.out.println(x);
