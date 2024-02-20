@@ -10,6 +10,7 @@ public class ArrayList123<E> {
         arrayList.add("A");
         arrayList.add("111");
 arrayList.add("155");
+arrayList.add("1000");
         System.out.println(arrayList);
         for(String x:arrayList){
             System.out.println(x);
